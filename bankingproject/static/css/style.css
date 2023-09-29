@@ -1,0 +1,42 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color: #8976a7;
+            color: #333;
+            margin: 0;
+            padding:10px;
+            }
+
+.navbar{
+   border-radius: 5px;
+}
+
+.navbar .navbar-nav .nav-but{
+         padding:5px;
+}
+
+.navbar .navbar-nav .nav-item{
+  padding: 5px;
+}
+
+.background-img{
+     background-image: url('..\static\img\wel.jpg');
+     width: 400px;
+     height: 200px;
+}
+
+
+.container {
+  padding:80px;
+}
+.container .card-img-top{
+  height:200px
+}
+/* footer */
+
+.my_foot {
+  background-color: transparent;
+  padding:1px;
+
+   }
+
+
